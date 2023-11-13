@@ -1,0 +1,3 @@
+Da thuc A: 0
+Da thuc B: -x^2+5x
+A+B = -x^2+5x

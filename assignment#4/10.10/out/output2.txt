@@ -1,0 +1,3 @@
+Da thuc A: x^4+5x^3-x^2+x-0.5
+Da thuc B: 3x^4-5x^2-x-2.5
+A+B = 4x^4+5x^3-6x^2-3

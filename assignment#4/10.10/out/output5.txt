@@ -1,0 +1,3 @@
+Da thuc A: 5x^3+9x
+Da thuc B: -5x^3-9x
+A+B = 0
